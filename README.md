@@ -1,4 +1,4 @@
-# Javascript / canvasで画像処理(?)
+# JavaScript / canvasで画像処理(?)
 
 
 ##概要
